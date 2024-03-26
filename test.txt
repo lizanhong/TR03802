@@ -1,3 +1,27 @@
+
 中华人民共和国
 
-美利坚合众国
+这是一个将被删除的文件
+
+
+branch
+XXXXXXXXXXXXX
+
+
+remote:
+remote: Create a pull request for 'dev1' on GitHub by visiting:
+remote:      https://github.com/lizanhong/TR03802/pull/new/dev1
+remote:
+To github.com:lizanhong/TR03802.git
+
+
+
+
+具体的操作流程可能包括：
+
+从master分支拉取代码到本地。
+在本地新建个人分支，并推送到远程仓库。
+在个人分支上进行开发，并定期将改动推送到远程个人分支。
+在本地将个人分支的改动合并到master分支，并处理可能出现的冲突。
+将合并后的master分支推送到远程仓库。
+
