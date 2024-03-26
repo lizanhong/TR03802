@@ -4,3 +4,11 @@
 branch
 XXXXXXXXXXXXX
 
+
+remote:
+remote: Create a pull request for 'dev1' on GitHub by visiting:
+remote:      https://github.com/lizanhong/TR03802/pull/new/dev1
+remote:
+To github.com:lizanhong/TR03802.git
+
+
